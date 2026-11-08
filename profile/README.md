@@ -6,36 +6,31 @@
 
 Independent software engineering · deterministic systems · automation · security research
 
-[Projects](#projects) · [Contribute](#contribute) · [Community](#community) · [Deutsch](#deutsch)
+[Explore repositories](https://github.com/orgs/KeilerHirschLabs/repositories) · [Founder: KeilerHirsch](https://github.com/KeilerHirsch) · [Community](#community)
 
 </div>
 
-## Projects
+## What we build
 
-Practical software and research projects, with clear distinctions between what exists today and what is still being developed.
+Practical tools, software products and independent research with an emphasis on reproducible evidence, robust system boundaries and maintainability.
 
-- **[SCUM-SENF](https://github.com/KeilerHirschLabs/SCUM-SENF)** — SCUM server events, observability, and alerts. **Research and foundation stage; no production release.**
-- **[More original projects](https://github.com/KeilerHirsch?tab=repositories&type=source)** — currently on the developer's personal GitHub profile. Eligible original projects are being moved to this organization gradually, without rewriting project history.
-
-Each project's own README, release status, and license are authoritative. Public project visibility does not imply that every Labs research effort is open source.
+**Discover the current work in [our GitHub repositories](https://github.com/orgs/KeilerHirschLabs/repositories).** Every project's own README, license and releases describe its actual status and available functionality. Public projects and private research have separate access and licensing decisions.
 
 ## Contribute
 
-Ideas, bug reports, and focused pull requests are welcome where a project's repository supports them. Follow its local guidelines and license. There is no blanket CLA or DCO requirement for all Labs projects.
+Focused issues and pull requests are welcome where a project accepts contributions. The project's own instructions and license take precedence; there is no blanket contributor agreement for all Labs projects.
 
 ## Community
 
-- [MAYHEM Club on Reddit](https://www.reddit.com/r/MAYHEMClub/) — exchange and community discussion.
-- **KeilerHirsch Labs Discord:** a central community hub is in preparation; an official invitation link will be added when available.
+- [MAYHEM Club on Reddit](https://www.reddit.com/r/MAYHEMClub/) — independent exchange for developers and creators.
+- **KeilerHirsch Labs Discord:** the central community hub is being built; an official invitation link will follow.
 
 ## Deutsch
 
-KeilerHirsch Labs entwickelt Software, Automatisierung und technische Forschungsprojekte. Im Mittelpunkt stehen nachvollziehbare Ergebnisse, schlanke Lösungen und saubere technische Grundlagen.
-
-Projekte werden schrittweise unter dieser Organisation zusammengeführt. Der jeweilige Projektstand und die Lizenz stehen im Projekt-Repository. Für Diskussionen und Austausch gibt es bereits [r/MAYHEMClub](https://www.reddit.com/r/MAYHEMClub/); der KHL-Discord wird aufgebaut.
+KeilerHirsch Labs entwickelt Software, technische Werkzeuge und unabhängige Forschungsprojekte. Aktuelle Projekte, Entwicklungsstände und Veröffentlichungen findest du direkt in den [GitHub-Repositories](https://github.com/orgs/KeilerHirschLabs/repositories).
 
 ---
 
-**Developed by KeilerHirsch Labs** · Led and maintained by [KeilerHirsch](https://github.com/KeilerHirsch).
+**KeilerHirsch Labs** · Founded and led by [KeilerHirsch](https://github.com/KeilerHirsch).
 
-<sub>Independent projects. No affiliation with the publishers of third-party games, tools, or platforms is implied.</sub>
+<sub>Independent projects; no implied affiliation with third-party game publishers, platforms or vendors.</sub>
