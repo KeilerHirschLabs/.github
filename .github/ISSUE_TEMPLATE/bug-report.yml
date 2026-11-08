@@ -1,0 +1,35 @@
+name: Bug report
+description: Report an observable defect in this project
+title: "bug: "
+body:
+  - type: markdown
+    attributes:
+      value: "Please do not submit credentials, private data, or unpatched security vulnerabilities here. Check this project's security policy for private reporting."
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the observed result, not just an assumed cause.
+      placeholder: Observable behavior and relevant context
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction steps
+      description: Include minimal steps and the environment if known.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Sanitized evidence
+      description: Optional logs or screenshots with personal, private, and credential data removed.
+    validations:
+      required: false
