@@ -4,33 +4,43 @@
 
 **Simple products. Serious engineering underneath.**
 
-Independent software engineering · deterministic systems · automation · security research
+Independent research & engineering · Deterministic systems · Automation · Security research
 
-[Explore repositories](https://github.com/orgs/KeilerHirschLabs/repositories) · [Founder: KeilerHirsch](https://github.com/KeilerHirsch) · [Community](#community)
+[Explore projects](https://github.com/orgs/KeilerHirschLabs/repositories) · [Join the discussion](https://github.com/KeilerHirschLabs/.github/discussions) · [Founder: KeilerHirsch](https://github.com/KeilerHirsch)
 
 </div>
 
-## What we build
+## About the lab
 
-Practical tools, software products and independent research with an emphasis on reproducible evidence, robust system boundaries and maintainability.
+KeilerHirsch Labs is an independent, product-oriented research and engineering initiative. We investigate technical problems, develop reusable software and tools, and check results against observable evidence.
 
-**Discover the current work in [our GitHub repositories](https://github.com/orgs/KeilerHirschLabs/repositories).** Every project's own README, license and releases describe its actual status and available functionality. Public projects and private research have separate access and licensing decisions.
+**Research → Build → Verify → Publish.** Keep the experience simple, make important behavior reproducible, and be clear about what is experimental versus ready to use.
 
-## Contribute
+Our work spans software and systems engineering, deterministic tooling, developer automation, security research and selected simulation projects. No single technology or game defines the lab.
 
-Focused issues and pull requests are welcome where a project accepts contributions. The project's own instructions and license take precedence; there is no blanket contributor agreement for all Labs projects.
+## Start here
+
+- **Discover the work:** [Browse our repositories](https://github.com/orgs/KeilerHirschLabs/repositories). Each project's README, licence and releases describe what is actually available.
+- **Ask, suggest or share:** Visit [community discussions](https://github.com/KeilerHirschLabs/.github/discussions) for topics that span projects.
+- **Report a bug or request a feature:** Use the affected project's issue tracker, where enabled.
+- **Report a security concern:** Follow the project's private reporting guidance or our [security policy](https://github.com/KeilerHirschLabs/.github/blob/main/SECURITY.md). Do not publish sensitive details in discussions or issues.
+
+## Working together
+
+Focused, evidence-backed contributions are welcome where individual projects accept them. We value clear scope, reproducible results and constructive technical disagreement. Read the target project's contribution rules before opening a pull request.
+
+**Licensing and availability are decided per project.** Public visibility does not imply that every repository is open source, production-ready or covered by a common licence.
 
 ## Community
 
-- [MAYHEM Club on Reddit](https://www.reddit.com/r/MAYHEMClub/) — independent exchange for developers and creators.
-- **KeilerHirsch Labs Discord:** the central community hub is being built; an official invitation link will follow.
+- [GitHub Discussions](https://github.com/KeilerHirschLabs/.github/discussions) — cross-project questions, ideas and announcements.
+- [MAYHEM Club on Reddit](https://www.reddit.com/r/MAYHEMClub/) — informal exchange with developers and creators.
+- **Discord:** A central KeilerHirsch Labs community hub is planned; an official invitation link will be published when available.
 
 ## Deutsch
 
-KeilerHirsch Labs entwickelt Software, technische Werkzeuge und unabhängige Forschungsprojekte. Aktuelle Projekte, Entwicklungsstände und Veröffentlichungen findest du direkt in den [GitHub-Repositories](https://github.com/orgs/KeilerHirschLabs/repositories).
+KeilerHirsch Labs ist ein unabhängiges Forschungs- und Engineering-Lab für wiederverwendbare Software, technische Werkzeuge und nachvollziehbar geprüfte Lösungen. Aktuelle Produkte, Entwicklungsstände und Veröffentlichungen stehen in den [GitHub-Repositories](https://github.com/orgs/KeilerHirschLabs/repositories); projektübergreifende Fragen und Ideen gehören in die [Diskussionen](https://github.com/KeilerHirschLabs/.github/discussions).
 
 ---
 
-**KeilerHirsch Labs** · Founded and led by [KeilerHirsch](https://github.com/KeilerHirsch).
-
-<sub>Independent projects; no implied affiliation with third-party game publishers, platforms or vendors.</sub>
+<sub>Founded and led by [KeilerHirsch](https://github.com/KeilerHirsch). Independent projects; no implied affiliation with third-party publishers, platforms or vendors.</sub>
